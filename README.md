@@ -8,7 +8,7 @@
 [![Monthly Downloads](https://poser.pugx.org/immobiliare/sentry-php/d/monthly?style=flat-square)](https://packagist.org/packages/immobiliare/sentry-php)
 [![Daily Downloads](https://poser.pugx.org/immobiliare/sentry-php/d/daily?style=flat-square)](https://packagist.org/packages/immobiliare/sentry-php)
 
-This project is a fork of official [PHP SDK v1.7](https://github.com/getsentry/sentry-php) for [Sentry](https://getsentry.com) to work even with php5.2.
+This project is a fork of official [PHP SDK v1.7](https://github.com/getsentry/sentry-php) for [Sentry](https://getsentry.com) to work even with php5.2, php5.6
 This project already have fix for https://github.com/getsentry/sentry-php/pull/615/commits/21e39a6bc4e27591dabe4118d9b996bbc109b3a0
 
 ## Features
@@ -26,7 +26,7 @@ recommended way is to use [Composer](http://getcomposer.org).
 
 Alternatively you can manually install it:
 
-1.  Download and extract the latest [sentry-php](https://github.com/immobiliare/sentry-php/archive/master.zip>) archive to your PHP project.
+1.  Download and extract the latest [sentry-php](https://github.com/fly304625/sentry-php/archive/master.zip) archive to your PHP project.
 2.  Require the autoloader in your application:
 
 ```php
