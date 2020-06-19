@@ -449,7 +449,7 @@ class Raven_Client
         }
         $username = (isset($url['user']) ? $url['user'] : null);
         $password = (isset($url['pass']) ? $url['pass'] : null);
-        if (empty($netloc) || empty($project) || empty($username) || empty($password)) {
+        if (empty($netloc) || empty($project) || empty($username)) {
             throw new InvalidArgumentException('Invalid Sentry DSN: ' . $dsn);
         }
 
