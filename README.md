@@ -1,7 +1,7 @@
 # fly304625/sentry-php
 
-[![Build Status](https://travis-ci.org/immobiliare/sentry-php.svg?branch=master)](https://travis-ci.org/immobiliare/sentry-php)
-[![Latest Stable Version](https://poser.pugx.org/immobiliare/sentry-php/v/stable?style=flat-square)](https://packagist.org/packages/immobiliare/sentry-php)
+[![Build Status](https://travis-ci.org/fly304625/sentry-php.svg?branch=master)](https://travis-ci.org/fly304625/sentry-php)
+[![Latest Stable Version](https://poser.pugx.org/fly304625/sentry-php/v/stable?style=flat-square)](https://packagist.org/packages/fly304625/sentry-php)
 [![Total Downloads](https://poser.pugx.org/immobiliare/sentry-php/downloads?style=flat-square)](https://packagist.org/packages/immobiliare/sentry-php)
 [![Latest Unstable Version](https://poser.pugx.org/immobiliare/sentry-php/v/unstable?style=flat-square)](https://packagist.org/packages/immobiliare/sentry-php)
 [![License](https://poser.pugx.org/immobiliare/sentry-php/license?style=flat-square)](https://packagist.org/packages/immobiliare/sentry-php)
