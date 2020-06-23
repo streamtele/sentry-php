@@ -20,13 +20,13 @@ This project already have fix for https://github.com/getsentry/sentry-php/pull/6
 ## Installation
 
 There are various ways to install the PHP integration for Sentry.  The
-recommended way is to use [Composer](http://getcomposer.org).
+recommended way is to use:
 
-    $ composer require fly304625/sentry-php:1.7.x-dev
+    $ git clone https://github.com/streamtele/sentry-php.git
 
 Alternatively you can manually install it:
 
-1.  Download and extract the latest [sentry-php](https://github.com/fly304625/sentry-php/archive/master.zip) archive to your PHP project.
+1.  Download and extract the latest [sentry-php](https://github.com/streamtele/sentry-php/archive/master.zip) archive to your PHP project.
 2.  Require the autoloader in your application:
 
 ```php
