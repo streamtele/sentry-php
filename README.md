@@ -1,4 +1,4 @@
-# fly304625/sentry-php
+# sentry-php
 
 [![Build Status](https://travis-ci.org/immobiliare/sentry-php.svg?branch=master)](https://travis-ci.org/immobiliare/sentry-php)
 [![Latest Stable Version](https://poser.pugx.org/immobiliare/sentry-php/v/stable?style=flat-square)](https://packagist.org/packages/immobiliare/sentry-php)
