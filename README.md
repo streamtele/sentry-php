@@ -64,21 +64,4 @@ Other packages exists to integrate this SDK into the most common frameworks.
 ## Community
 
 - [Documentation](https://docs.getsentry.com/hosted/clients/php/)
-- [Bug Tracker](http://github.com/immobiliare/sentry-php/issues)
-- [Code](http://github.com/immobiliare/sentry-php)
 
-
-Contributing
-------------
-
-Dependencies are managed through composer:
-
-```
-$ composer install
-```
-
-Tests can then be run via phpunit:
-
-```
-$ vendor/bin/phpunit
-```
