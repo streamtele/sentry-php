@@ -1,9 +1,9 @@
 {
-    "name": "immobiliare/sentry-php",
+    "name": "streamtele/sentry-php",
     "type": "library",
-    "description": "Fork of a PHP client for Sentry (http://getsentry.com) that work also with php5.2",
-    "keywords": ["log", "logging", "sentry", "sentry-php", "php52", "php 5.2"],
-    "homepage": "https://github.com/immobiliare/sentry-php",
+    "description": "Fork of a PHP client for Sentry (http://getsentry.com) that work also with php5.2/php5.6",
+    "keywords": ["log", "logging", "sentry", "sentry-php", "php52", "php 5.2", "php56", "php6", "php 5.6"],
+    "homepage": "https://github.com/streamtele/sentry-php",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -11,8 +11,8 @@
             "email": "dcramer@gmail.com"
         },
         {
-            "name": "ImmobiliareLabs",
-            "email": "labs@immobiliare.it"
+            "name": "Streamtele",
+            "email": "developers@streamtele.com"
         }
     ],
     "require-dev": {
